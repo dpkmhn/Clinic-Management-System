@@ -1,4 +1,4 @@
-# Clinic-Management-System-
+# Clinic-Management-System 
 
 ## General Info
 
@@ -7,7 +7,7 @@
 
 ## Tools and Technologies used
 
-1. <b>VB.Net </b> :- For giving a user friendly frontend.
+1. <b>VB.Net </b> :- For a user friendly frontend.
 2. <b>MySQL </b> :- For database
 
 ### Screenshots:-
