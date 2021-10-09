@@ -1,0 +1,246 @@
+E:\Clinic Management System\Clinic Managemt System\bin\Debug\LoginDB1.accdb
+E:\Clinic Management System\Clinic Managemt System\bin\Debug\WindowsApplication1.exe.config
+E:\Clinic Management System\Clinic Managemt System\bin\Debug\WindowsApplication1.exe
+E:\Clinic Management System\Clinic Managemt System\bin\Debug\WindowsApplication1.pdb
+E:\Clinic Management System\Clinic Managemt System\bin\Debug\WindowsApplication1.xml
+E:\Clinic Management System\Clinic Managemt System\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\Clinic Management System\Clinic Managemt System\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\Clinic Management System\Clinic Managemt System\bin\Debug\CrystalDecisions.Shared.dll
+E:\Clinic Management System\Clinic Managemt System\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\Clinic Management System\Clinic Managemt System\bin\Debug\FlashControlV71.dll
+E:\Clinic Management System\Clinic Managemt System\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\Clinic Management System\Clinic Managemt System\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\Clinic Management System\Clinic Managemt System\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\Clinic Management System\Clinic Managemt System\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\Clinic Management System\Clinic Managemt System\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\Clinic Management System\Clinic Managemt System\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\Clinic Management System\Clinic Managemt System\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\Clinic Management System\Clinic Managemt System\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\Clinic Management System\Clinic Managemt System\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\Clinic Management System\Clinic Managemt System\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\Clinic Management System\Clinic Managemt System\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\Clinic Management System\Clinic Managemt System\bin\Debug\ShockwaveFlashObjects.dll
+E:\Clinic Management System\Clinic Managemt System\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\Clinic Management System\Clinic Managemt System\bin\Debug\stdole.dll
+E:\Clinic Management System\Clinic Managemt System\obj\Debug\WindowsApplication1.About.resources
+E:\Clinic Management System\Clinic Managemt System\obj\Debug\WindowsApplication1.Appointment.resources
+E:\Clinic Management System\Clinic Managemt System\obj\Debug\WindowsApplication1.DoctorSearch.resources
+E:\Clinic Management System\Clinic Managemt System\obj\Debug\WindowsApplication1.Doc_Maintenence.resources
+E:\Clinic Management System\Clinic Managemt System\obj\Debug\WindowsApplication1.MDIParent1.resources
+E:\Clinic Management System\Clinic Managemt System\obj\Debug\WindowsApplication1.RprtInvoice.resources
+E:\Clinic Management System\Clinic Managemt System\obj\Debug\WindowsApplication1.RprtPatient.resources
+E:\Clinic Management System\Clinic Managemt System\obj\Debug\WindowsApplication1.Login.resources
+E:\Clinic Management System\Clinic Managemt System\obj\Debug\WindowsApplication1.MedicineCharges.resources
+E:\Clinic Management System\Clinic Managemt System\obj\Debug\WindowsApplication1.PatientInvoiceME.resources
+E:\Clinic Management System\Clinic Managemt System\obj\Debug\WindowsApplication1.PatientReg.resources
+E:\Clinic Management System\Clinic Managemt System\obj\Debug\WindowsApplication1.Prescription.resources
+E:\Clinic Management System\Clinic Managemt System\obj\Debug\WindowsApplication1.Reset.resources
+E:\Clinic Management System\Clinic Managemt System\obj\Debug\WindowsApplication1.RprtPrecription.resources
+E:\Clinic Management System\Clinic Managemt System\obj\Debug\WindowsApplication1.staff.resources
+E:\Clinic Management System\Clinic Managemt System\obj\Debug\WindowsApplication1.Patientsearch.resources
+E:\Clinic Management System\Clinic Managemt System\obj\Debug\WindowsApplication1.AddMedicine.resources
+E:\Clinic Management System\Clinic Managemt System\obj\Debug\WindowsApplication1.Resources.resources
+E:\Clinic Management System\Clinic Managemt System\obj\Debug\WindowsApplication1.staffsearch.resources
+E:\Clinic Management System\Clinic Managemt System\obj\Debug\aman.vbproj.GenerateResource.Cache
+E:\Clinic Management System\Clinic Managemt System\obj\Debug\WindowsApplication1.exe
+E:\Clinic Management System\Clinic Managemt System\obj\Debug\WindowsApplication1.xml
+E:\Clinic Management System\Clinic Managemt System\obj\Debug\WindowsApplication1.pdb
+D:\Downloads\Clinic Management System (2)\Clinic Management System\Clinic Managemt System\bin\Debug\WindowsApplication1.exe.config
+D:\Downloads\Clinic Management System (2)\Clinic Management System\Clinic Managemt System\obj\Debug\WindowsApplication1.exe
+D:\Downloads\Clinic Management System (2)\Clinic Management System\Clinic Managemt System\obj\Debug\WindowsApplication1.xml
+D:\Downloads\Clinic Management System (2)\Clinic Management System\Clinic Managemt System\obj\Debug\WindowsApplication1.pdb
+D:\Downloads\Clinic Management System (2)\Clinic Management System\Clinic Managemt System\bin\Debug\LoginDB1.accdb
+D:\Downloads\Clinic Management System (2)\Clinic Management System\Clinic Managemt System\bin\Debug\WindowsApplication1.exe
+D:\Downloads\Clinic Management System (2)\Clinic Management System\Clinic Managemt System\bin\Debug\WindowsApplication1.pdb
+D:\Downloads\Clinic Management System (2)\Clinic Management System\Clinic Managemt System\bin\Debug\WindowsApplication1.xml
+D:\Downloads\Clinic Management System (2)\Clinic Management System\Clinic Managemt System\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Downloads\Clinic Management System (2)\Clinic Management System\Clinic Managemt System\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Downloads\Clinic Management System (2)\Clinic Management System\Clinic Managemt System\bin\Debug\CrystalDecisions.Shared.dll
+D:\Downloads\Clinic Management System (2)\Clinic Management System\Clinic Managemt System\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Downloads\Clinic Management System (2)\Clinic Management System\Clinic Managemt System\bin\Debug\FlashControlV71.dll
+D:\Downloads\Clinic Management System (2)\Clinic Management System\Clinic Managemt System\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Downloads\Clinic Management System (2)\Clinic Management System\Clinic Managemt System\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Downloads\Clinic Management System (2)\Clinic Management System\Clinic Managemt System\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Downloads\Clinic Management System (2)\Clinic Management System\Clinic Managemt System\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Downloads\Clinic Management System (2)\Clinic Management System\Clinic Managemt System\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Downloads\Clinic Management System (2)\Clinic Management System\Clinic Managemt System\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Downloads\Clinic Management System (2)\Clinic Management System\Clinic Managemt System\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Downloads\Clinic Management System (2)\Clinic Management System\Clinic Managemt System\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Downloads\Clinic Management System (2)\Clinic Management System\Clinic Managemt System\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Downloads\Clinic Management System (2)\Clinic Management System\Clinic Managemt System\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Downloads\Clinic Management System (2)\Clinic Management System\Clinic Managemt System\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Downloads\Clinic Management System (2)\Clinic Management System\Clinic Managemt System\bin\Debug\ShockwaveFlashObjects.dll
+D:\Downloads\Clinic Management System (2)\Clinic Management System\Clinic Managemt System\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Downloads\Clinic Management System (2)\Clinic Management System\Clinic Managemt System\bin\Debug\stdole.dll
+D:\Downloads\Clinic Management System (2)\Clinic Management System\Clinic Managemt System\obj\Debug\aman.vbprojResolveAssemblyReference.cache
+D:\Downloads\Clinic Management System (2)\Clinic Management System\Clinic Managemt System\obj\Debug\WindowsApplication1.About.resources
+D:\Downloads\Clinic Management System (2)\Clinic Management System\Clinic Managemt System\obj\Debug\WindowsApplication1.Appointment.resources
+D:\Downloads\Clinic Management System (2)\Clinic Management System\Clinic Managemt System\obj\Debug\WindowsApplication1.DoctorSearch.resources
+D:\Downloads\Clinic Management System (2)\Clinic Management System\Clinic Managemt System\obj\Debug\WindowsApplication1.Doc_Maintenence.resources
+D:\Downloads\Clinic Management System (2)\Clinic Management System\Clinic Managemt System\obj\Debug\WindowsApplication1.MDIParent1.resources
+D:\Downloads\Clinic Management System (2)\Clinic Management System\Clinic Managemt System\obj\Debug\WindowsApplication1.RprtInvoice.resources
+D:\Downloads\Clinic Management System (2)\Clinic Management System\Clinic Managemt System\obj\Debug\WindowsApplication1.RprtPatient.resources
+D:\Downloads\Clinic Management System (2)\Clinic Management System\Clinic Managemt System\obj\Debug\WindowsApplication1.Login.resources
+D:\Downloads\Clinic Management System (2)\Clinic Management System\Clinic Managemt System\obj\Debug\WindowsApplication1.MedicineCharges.resources
+D:\Downloads\Clinic Management System (2)\Clinic Management System\Clinic Managemt System\obj\Debug\WindowsApplication1.PatientInvoiceME.resources
+D:\Downloads\Clinic Management System (2)\Clinic Management System\Clinic Managemt System\obj\Debug\WindowsApplication1.PatientReg.resources
+D:\Downloads\Clinic Management System (2)\Clinic Management System\Clinic Managemt System\obj\Debug\WindowsApplication1.Prescription.resources
+D:\Downloads\Clinic Management System (2)\Clinic Management System\Clinic Managemt System\obj\Debug\WindowsApplication1.Reset.resources
+D:\Downloads\Clinic Management System (2)\Clinic Management System\Clinic Managemt System\obj\Debug\WindowsApplication1.RprtPrecription.resources
+D:\Downloads\Clinic Management System (2)\Clinic Management System\Clinic Managemt System\obj\Debug\WindowsApplication1.staff.resources
+D:\Downloads\Clinic Management System (2)\Clinic Management System\Clinic Managemt System\obj\Debug\WindowsApplication1.Patientsearch.resources
+D:\Downloads\Clinic Management System (2)\Clinic Management System\Clinic Managemt System\obj\Debug\WindowsApplication1.AddMedicine.resources
+D:\Downloads\Clinic Management System (2)\Clinic Management System\Clinic Managemt System\obj\Debug\WindowsApplication1.Resources.resources
+D:\Downloads\Clinic Management System (2)\Clinic Management System\Clinic Managemt System\obj\Debug\WindowsApplication1.staffsearch.resources
+D:\Downloads\Clinic Management System (2)\Clinic Management System\Clinic Managemt System\obj\Debug\aman.vbproj.GenerateResource.Cache
+C:\Users\Deepak\Desktop\VB.NET PROJECT\AMAN\bin\Debug\LoginDB1.accdb
+C:\Users\Deepak\Desktop\VB.NET PROJECT\AMAN\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Deepak\Desktop\VB.NET PROJECT\AMAN\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Deepak\Desktop\VB.NET PROJECT\AMAN\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Deepak\Desktop\VB.NET PROJECT\AMAN\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Deepak\Desktop\VB.NET PROJECT\AMAN\bin\Debug\FlashControlV71.dll
+C:\Users\Deepak\Desktop\VB.NET PROJECT\AMAN\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Deepak\Desktop\VB.NET PROJECT\AMAN\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Deepak\Desktop\VB.NET PROJECT\AMAN\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Deepak\Desktop\VB.NET PROJECT\AMAN\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Deepak\Desktop\VB.NET PROJECT\AMAN\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Deepak\Desktop\VB.NET PROJECT\AMAN\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Deepak\Desktop\VB.NET PROJECT\AMAN\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Deepak\Desktop\VB.NET PROJECT\AMAN\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Deepak\Desktop\VB.NET PROJECT\AMAN\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Deepak\Desktop\VB.NET PROJECT\AMAN\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Deepak\Desktop\VB.NET PROJECT\AMAN\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Deepak\Desktop\VB.NET PROJECT\AMAN\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Deepak\Desktop\VB.NET PROJECT\AMAN\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Deepak\Desktop\VB.NET PROJECT\AMAN\bin\Debug\stdole.dll
+C:\Users\Deepak\Desktop\VB.NET PROJECT\AMAN\obj\Debug\aman.vbprojResolveAssemblyReference.cache
+C:\Users\Deepak\Desktop\VB.NET PROJECT\AMAN\obj\Debug\WindowsApplication1.About.resources
+C:\Users\Deepak\Desktop\VB.NET PROJECT\AMAN\obj\Debug\WindowsApplication1.Appointment.resources
+C:\Users\Deepak\Desktop\VB.NET PROJECT\AMAN\obj\Debug\WindowsApplication1.DoctorSearch.resources
+C:\Users\Deepak\Desktop\VB.NET PROJECT\AMAN\obj\Debug\WindowsApplication1.MDIParent1.resources
+C:\Users\Deepak\Desktop\VB.NET PROJECT\AMAN\obj\Debug\WindowsApplication1.RprtInvoice.resources
+C:\Users\Deepak\Desktop\VB.NET PROJECT\AMAN\obj\Debug\WindowsApplication1.RprtPatient.resources
+C:\Users\Deepak\Desktop\VB.NET PROJECT\AMAN\obj\Debug\WindowsApplication1.Login.resources
+C:\Users\Deepak\Desktop\VB.NET PROJECT\AMAN\obj\Debug\WindowsApplication1.MedicineCharges.resources
+C:\Users\Deepak\Desktop\VB.NET PROJECT\AMAN\obj\Debug\WindowsApplication1.PatientInvoiceME.resources
+C:\Users\Deepak\Desktop\VB.NET PROJECT\AMAN\obj\Debug\WindowsApplication1.PatientReg.resources
+C:\Users\Deepak\Desktop\VB.NET PROJECT\AMAN\obj\Debug\WindowsApplication1.Prescription.resources
+C:\Users\Deepak\Desktop\VB.NET PROJECT\AMAN\obj\Debug\WindowsApplication1.Reset.resources
+C:\Users\Deepak\Desktop\VB.NET PROJECT\AMAN\obj\Debug\WindowsApplication1.RprtPrecription.resources
+C:\Users\Deepak\Desktop\VB.NET PROJECT\AMAN\obj\Debug\WindowsApplication1.staff.resources
+C:\Users\Deepak\Desktop\VB.NET PROJECT\AMAN\obj\Debug\WindowsApplication1.Patientsearch.resources
+C:\Users\Deepak\Desktop\VB.NET PROJECT\AMAN\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Deepak\Desktop\VB.NET PROJECT\AMAN\obj\Debug\WindowsApplication1.staffsearch.resources
+C:\Users\Deepak\Desktop\VB.NET PROJECT\AMAN\obj\Debug\aman.vbproj.GenerateResource.Cache
+C:\Users\Deepak\Desktop\VB.NET PROJECT\AMAN\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Deepak\Desktop\VB.NET PROJECT\AMAN\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Deepak\Desktop\VB.NET PROJECT\AMAN\obj\Debug\WindowsApplication1.AddMedicine.resources
+C:\Users\Deepak\Desktop\VB.NET PROJECT\AMAN\obj\Debug\WindowsApplication1.rprtdoctor.resources
+E:\AMAN\bin\Debug\WindowsApplication1.exe.config
+E:\AMAN\obj\Debug\WindowsApplication1.exe
+E:\AMAN\obj\Debug\WindowsApplication1.xml
+E:\AMAN\obj\Debug\WindowsApplication1.pdb
+E:\AMAN\obj\Debug\aman.vbprojResolveAssemblyReference.cache
+E:\AMAN\obj\Debug\WindowsApplication1.About.resources
+E:\AMAN\obj\Debug\WindowsApplication1.AddMedicine.resources
+E:\AMAN\obj\Debug\WindowsApplication1.Appointment.resources
+E:\AMAN\obj\Debug\WindowsApplication1.MedicineCharges.resources
+E:\AMAN\obj\Debug\WindowsApplication1.DoctorSearch.resources
+E:\AMAN\obj\Debug\WindowsApplication1.Doc_Maintenence.resources
+E:\AMAN\obj\Debug\WindowsApplication1.MDIParent1.resources
+E:\AMAN\obj\Debug\WindowsApplication1.rprtdoctor.resources
+E:\AMAN\obj\Debug\WindowsApplication1.RprtInvoice.resources
+E:\AMAN\obj\Debug\WindowsApplication1.RprtPatient.resources
+E:\AMAN\obj\Debug\WindowsApplication1.Login.resources
+E:\AMAN\obj\Debug\WindowsApplication1.PatientInvoiceME.resources
+E:\AMAN\obj\Debug\WindowsApplication1.PatientReg.resources
+E:\AMAN\obj\Debug\WindowsApplication1.Prescription.resources
+E:\AMAN\obj\Debug\WindowsApplication1.Reset.resources
+E:\AMAN\obj\Debug\WindowsApplication1.RprtPrecription.resources
+E:\AMAN\obj\Debug\WindowsApplication1.staff.resources
+E:\AMAN\obj\Debug\WindowsApplication1.Patientsearch.resources
+E:\AMAN\obj\Debug\WindowsApplication1.Resources.resources
+E:\AMAN\obj\Debug\WindowsApplication1.staffsearch.resources
+E:\AMAN\obj\Debug\aman.vbproj.GenerateResource.Cache
+E:\AMAN\bin\Debug\LoginDB1.accdb
+E:\AMAN\bin\Debug\WindowsApplication1.exe
+E:\AMAN\bin\Debug\WindowsApplication1.pdb
+E:\AMAN\bin\Debug\WindowsApplication1.xml
+E:\AMAN\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\AMAN\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\AMAN\bin\Debug\CrystalDecisions.Shared.dll
+E:\AMAN\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\AMAN\bin\Debug\FlashControlV71.dll
+E:\AMAN\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\AMAN\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\AMAN\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\AMAN\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\AMAN\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\AMAN\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\AMAN\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\AMAN\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\AMAN\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\AMAN\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\AMAN\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\AMAN\bin\Debug\ShockwaveFlashObjects.dll
+E:\AMAN\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\AMAN\bin\Debug\stdole.dll
+E:\AMAN\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\Downloads\AMAN\bin\Debug\Clinic Management System.exe.config
+D:\Downloads\AMAN\bin\Debug\LoginDB1.accdb
+D:\Downloads\AMAN\bin\Debug\Clinic Management System.exe
+D:\Downloads\AMAN\bin\Debug\Clinic Management System.pdb
+D:\Downloads\AMAN\bin\Debug\Clinic Management System.xml
+D:\Downloads\AMAN\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Downloads\AMAN\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Downloads\AMAN\bin\Debug\CrystalDecisions.Shared.dll
+D:\Downloads\AMAN\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Downloads\AMAN\bin\Debug\FlashControlV71.dll
+D:\Downloads\AMAN\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\Downloads\AMAN\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Downloads\AMAN\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Downloads\AMAN\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Downloads\AMAN\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Downloads\AMAN\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Downloads\AMAN\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Downloads\AMAN\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Downloads\AMAN\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Downloads\AMAN\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Downloads\AMAN\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Downloads\AMAN\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Downloads\AMAN\bin\Debug\ShockwaveFlashObjects.dll
+D:\Downloads\AMAN\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Downloads\AMAN\bin\Debug\stdole.dll
+D:\Downloads\AMAN\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\Downloads\AMAN\obj\Debug\aman.vbprojResolveAssemblyReference.cache
+D:\Downloads\AMAN\obj\Debug\WindowsApplication1.About.resources
+D:\Downloads\AMAN\obj\Debug\WindowsApplication1.AddMedicine.resources
+D:\Downloads\AMAN\obj\Debug\WindowsApplication1.Appointment.resources
+D:\Downloads\AMAN\obj\Debug\WindowsApplication1.MedicineCharges.resources
+D:\Downloads\AMAN\obj\Debug\WindowsApplication1.DoctorSearch.resources
+D:\Downloads\AMAN\obj\Debug\WindowsApplication1.Doc_Maintenence.resources
+D:\Downloads\AMAN\obj\Debug\WindowsApplication1.MDIParent1.resources
+D:\Downloads\AMAN\obj\Debug\WindowsApplication1.rprtdoctor.resources
+D:\Downloads\AMAN\obj\Debug\WindowsApplication1.RprtInvoice.resources
+D:\Downloads\AMAN\obj\Debug\WindowsApplication1.RprtPatient.resources
+D:\Downloads\AMAN\obj\Debug\WindowsApplication1.Login.resources
+D:\Downloads\AMAN\obj\Debug\WindowsApplication1.PatientInvoiceME.resources
+D:\Downloads\AMAN\obj\Debug\WindowsApplication1.PatientReg.resources
+D:\Downloads\AMAN\obj\Debug\WindowsApplication1.Prescription.resources
+D:\Downloads\AMAN\obj\Debug\WindowsApplication1.Reset.resources
+D:\Downloads\AMAN\obj\Debug\WindowsApplication1.RprtPrecription.resources
+D:\Downloads\AMAN\obj\Debug\WindowsApplication1.staff.resources
+D:\Downloads\AMAN\obj\Debug\WindowsApplication1.Patientsearch.resources
+D:\Downloads\AMAN\obj\Debug\WindowsApplication1.Resources.resources
+D:\Downloads\AMAN\obj\Debug\WindowsApplication1.staffsearch.resources
+D:\Downloads\AMAN\obj\Debug\aman.vbproj.GenerateResource.Cache
+D:\Downloads\AMAN\obj\Debug\Clinic Management System.exe
+D:\Downloads\AMAN\obj\Debug\Clinic Management System.xml
+D:\Downloads\AMAN\obj\Debug\Clinic Management System.pdb
+C:\Users\Deepak\Desktop\VB.NET PROJECT\AMAN\bin\Debug\Clinic Management System.exe.config
+C:\Users\Deepak\Desktop\VB.NET PROJECT\AMAN\obj\Debug\Clinic Management System.exe
+C:\Users\Deepak\Desktop\VB.NET PROJECT\AMAN\obj\Debug\Clinic Management System.xml
+C:\Users\Deepak\Desktop\VB.NET PROJECT\AMAN\obj\Debug\Clinic Management System.pdb
+C:\Users\Deepak\Desktop\VB.NET PROJECT\AMAN\bin\Debug\Clinic Management System.exe
+C:\Users\Deepak\Desktop\VB.NET PROJECT\AMAN\bin\Debug\Clinic Management System.pdb
+C:\Users\Deepak\Desktop\VB.NET PROJECT\AMAN\bin\Debug\Clinic Management System.xml
