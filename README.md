@@ -9,18 +9,4 @@
 
 1. <b>VB.Net </b> :- For a user friendly frontend.
 2. <b>MySQL </b> :- For backend
-
-### Screenshots:-
-
-<br>
-<img src="screenshots/home.png" alt="Smiley face" width = "700"  height = "400">
-
-<br>
-<img src="screenshots/preg.png" alt="Smiley face" width = "700"  height = "400">
-
-<br>
-<img src="screenshots/apt.png" alt="Smiley face" width = "700"  height = "400">
-
-<br>
-<img src="screenshots/bill.png" alt="Smiley face" width = "700"  height = "400">
-
+ 
